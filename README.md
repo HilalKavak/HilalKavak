@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Hilal Kavak
 
-<!--
-**HilalKavak/HilalKavak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bilgisayar Programcılığı mezunu • Web Geliştirici**
 
-Here are some ideas to get you started:
+**Kullanıcı deneyimini ön planda tutan, erişilebilir ve kolay yönetilebilir web projeleri geliştiriyorum. Hem statik hem dinamik yapılarla çalışıyor, WordPress tabanlı projelerde aktif olarak görev alıyorum.
+**---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Yetenekler
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **CMS / Web:** WordPress, Elementor
+- **Araçlar & Diğer:** Git, GitHub, VS Code, temel UI/UX prensipleri
+---
+
+## 🔭 Hâlen Üzerinde Çalıştığım / İlgi Alanlarım
+- Modern, performanslı ve erişilebilir arayüzler
+- WordPress temaları ve site yapılandırmaları
+- Kod kalitesi, temiz mimari ve yeniden kullanılabilir bileşenler
+
+---
+
+## 💻 Öne Çıkan Projeler
+- **[Tatlı Sitesi]** — Kullanıcıların tatlı tariflerine kolay ve hızlı bir şekilde ulaşabilmesi amacıyla oluşturulmuş bir web sitesi.
+- **BŞEÜ Yoklama Sistemi** —  Akademisyenlerin yoklama süreçlerini dijital ortamda pratik ve verimli şekilde yönetmelerini sağlayan bir sistem.
+- **TBAE, ULAKBİM, UME, MAM** — Kurumsal web sitelerinin planlanması, kurulumu ve tema/arayüz yapılandırmalarının gerçekleştirilmesi.
+---
+
+## 📫 İletişim
+- E-posta: `hilalkavak1905@gmail.com`  
+- LinkedIn: `linkedin.com/in/hilallkavakk16`  
+---
+
