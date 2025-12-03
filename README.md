@@ -2,8 +2,7 @@
 
 **Bilgisayar Programcılığı mezunu • Web Geliştirici**
 
-**Kullanıcı deneyimini ön planda tutan, erişilebilir ve kolay yönetilebilir web projeleri geliştiriyorum. Hem statik hem dinamik yapılarla çalışıyor, WordPress tabanlı projelerde aktif olarak görev alıyorum.
-**---
+Kullanıcı deneyimini ön planda tutan, erişilebilir ve kolay yönetilebilir web projeleri geliştiriyorum. Hem statik hem dinamik yapılarla çalışıyor, WordPress tabanlı projelerde aktif olarak görev alıyorum.
 
 ## 🛠️ Yetenekler
 - **Frontend:** HTML5, CSS3, JavaScript, React
@@ -19,7 +18,7 @@
 ---
 
 ## 💻 Öne Çıkan Projeler
-- **[Tatlı Sitesi]** — Kullanıcıların tatlı tariflerine kolay ve hızlı bir şekilde ulaşabilmesi amacıyla oluşturulmuş bir web sitesi.
+- **Tatlı Sitesi** — Kullanıcıların tatlı tariflerine kolay ve hızlı bir şekilde ulaşabilmesi amacıyla oluşturulmuş bir web sitesi.
 - **BŞEÜ Yoklama Sistemi** —  Akademisyenlerin yoklama süreçlerini dijital ortamda pratik ve verimli şekilde yönetmelerini sağlayan bir sistem.
 - **TBAE, ULAKBİM, UME, MAM** — Kurumsal web sitelerinin planlanması, kurulumu ve tema/arayüz yapılandırmalarının gerçekleştirilmesi.
 ---
